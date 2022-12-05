@@ -1,0 +1,8 @@
+#header{
+    position:fixed;
+    display:flex;
+  }
+  
+  @media (max-width:300px){
+  #footer{color:green;
+  }}
